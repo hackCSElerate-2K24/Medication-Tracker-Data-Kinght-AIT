@@ -1,5 +1,8 @@
 # Data Kinght-AIT
 MedicationExpirationTracker
+
+
+
 Project Description
 Our project helps users keep track of medication expiry dates by scanning labels using a camera. By utilizing Optical Character Recognition (OCR), it extracts key details such as the medication name, expiry date, and dosage from the label images. The extracted data is then stored in a database, allowing users to easily access and monitor their medications. This solution aims to prevent the use of expired medications, improving safety and ensuring that medications are consumed within their recommended timeframes.
 Installation
